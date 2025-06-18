@@ -22,15 +22,6 @@ A beginner-friendly cloud-based system to help students upload assignments and s
 | BigQuery       | Store metadata (file name, type, size)  |
 
 ---
-## 📸 Sample Output
-
-> Cloud Function log after assignment upload:
-
-![GCP Output](screenshots/gcp_output.png)
-
-*Make sure to upload your actual screenshot inside the `screenshots/` folder.*
-
----
 
 ## 🛠️ Setup Instructions
 
